@@ -1,0 +1,11 @@
+{
+  "name": "dev-aidd-harness",
+  "owner": { "name": "team-global" },
+  "plugins": [
+    {
+      "name": "sample-plugin",
+      "source": "./team-global/plugin/sample-plugin",
+      "description": "開発プロセス用ハーネスの雛形プラグイン"
+    }
+  ]
+}
