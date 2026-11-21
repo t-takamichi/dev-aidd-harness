@@ -1,3 +1,7 @@
+---
+description: エージェントを追加・変更するとき、frontmatter の model の指定ルールを確認する
+---
+
 # agent-model
 
 ## ルール
