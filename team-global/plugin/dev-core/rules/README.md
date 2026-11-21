@@ -9,3 +9,7 @@
 - 強制したい内容は `hooks/` で実装する
 
 ルールは1ファイル1テーマで置く（例：`coding-style.md`, `review-criteria.md`）。
+
+## 変換時の扱い
+
+`scripts/convert-harness.py` は、各ルールの frontmatter `description` を agy の `model_decision` ルールの説明に使う（省略時は最初の見出し）。Codex には `AGENTS.md` に埋め込む。
