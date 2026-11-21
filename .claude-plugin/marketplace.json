@@ -3,8 +3,8 @@
   "owner": { "name": "team-global" },
   "plugins": [
     {
-      "name": "sample-plugin",
-      "source": "./team-global/plugin/sample-plugin",
+      "name": "dev-core",
+      "source": "./team-global/plugin/dev-core",
       "description": "開発プロセス用ハーネスの雛形プラグイン"
     }
   ]
