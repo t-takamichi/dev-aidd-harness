@@ -1,6 +1,11 @@
 {
   "name": "dev-aidd-harness",
-  "owner": { "name": "team-global" },
+  "owner": {
+    "name": "team-global"
+  },
+  "metadata": {
+    "description": "開発プロセスにAI用ハーネス（skills / agents / rules）を配置するためのプラグイン集"
+  },
   "plugins": [
     {
       "name": "dev-core",
